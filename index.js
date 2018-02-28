@@ -1,6 +1,7 @@
 // write your code below!
-var name = "Susan";
-var height = "74"
-var message = ` Susan is 74 inches tall`;
+var name = "Susan"
+var height = 40
+var message = `Susan is 74 inches tall` 
 
-module.exports = {name, height, message};
+module.exports = {name, height, message}
+console.log(message)
